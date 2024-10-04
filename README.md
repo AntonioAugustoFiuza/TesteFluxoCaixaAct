@@ -5,7 +5,7 @@ O sistema Teste Fluxo de caixa é uma API que controle o fluxo de caixa do comer
 A API foi desenvolvida em .NET CORE 6 com AWS serverless com banco de dados Postgres.
 
 # Arquitetura
-A arquitetura é monolito e foi feita em serverless(sem servidor) utilizado a AWS.
+A arquitetura é monolito e foi feita em serverless(sem servidor) utilizando a AWS.
 
 # Diagramas de arquitetura
 Segue no arquivo PDF presente no repositório.
