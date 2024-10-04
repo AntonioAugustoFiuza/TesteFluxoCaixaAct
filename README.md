@@ -1,7 +1,7 @@
 # Visão Geral
 O sistema Teste Fluxo de caixa é uma API que controle o fluxo de caixa do comerciante e também gera o relatório consolidado do dia.
 
-# Tech stack
+# Tech Stack
 A API foi desenvolvida em .NET CORE 6 com AWS serverless com banco de dados Postgres.
 
 # Arquitetura
